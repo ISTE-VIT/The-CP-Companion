@@ -14,9 +14,9 @@
 
 <hr>
 
-<h2>Literally, CP is a sport :basketball_man:, like any other sport.  
+<h2> Literally, CP is a sport :basketball_man:, like any other sport.  </h2>
 	
-<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></h2></p>
+
 
 > Let’s consider cricket for a while. You walk into bat for the first time. Bowler swings and you miss. You practice by keeping this “swing” in your mind and next time you’ll do much better. By practicing and doing it a couple of times, you’ll hit one over the ropes.
 
