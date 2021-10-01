@@ -65,8 +65,8 @@ Welcome To :man_technologist: :woman_technologist:
 - Fork this repo 
 - Clone on your local machine 
 ```terminal
-git clone https://github.com/<your username>/hacktoberfest.git
-cd hacktoberfest
+git clone https://github.com/<your username>/The-Algo-Companion.git
+cd The-Algo-Companion
 ```
 - Create a new branch 
 ```terminal
