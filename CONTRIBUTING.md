@@ -112,11 +112,11 @@ git push origin my-new-branch
 
 | Serial No. | DOMAIN| REPOSITORY LINK  | LANGUAGE |
 |:--|:--|:--|:--|
-| 1. | COMPETITIVE CODING | [THE ALGO COMPANION](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/tree/main/CP%20RAGE)  | `JavaScript, Java, Python, Kotlin, C, C++`  |
-| 2. | WEB DEVELOPMENT| [Web dev]()  | `JavaScript, React, Node JS, HTML, CSS, Angular`  |
-| 3. | APP DEVELOPMENT| [App Dev]()  | `Java, Kotlin, Dart`  |
-| 4. | MACHINE LEARNING| [ML]()  | `Python, R `  |
-| 5. | ELECTRICAL | [IOT]()  | `C++, C`  |
+| 1. | COMPETITIVE CODING | [THE ALGO COMPANION](https://github.com/ISTE-VIT/The-Algo-Companion)  | `JavaScript, Java, Python, Kotlin, C, C++`  |
+| 2. | WEB DEVELOPMENT| [Web dev](https://github.com/ISTE-VIT/Projects-Archive/tree/main/WebDev)  | `JavaScript, React, Node JS, HTML, CSS, Angular`  |
+| 3. | APP DEVELOPMENT| [App Dev](https://github.com/ISTE-VIT/Projects-Archive/tree/main/AppDev)  | `Java, Kotlin, Dart`  |
+| 4. | MACHINE LEARNING| [ML](https://github.com/ISTE-VIT/Projects-Archive/tree/main/Machine%20Learning)  | `Python, R `  |
+| 5. | ELECTRICAL | [Arduino Amplified](https://github.com/ISTE-VIT/Arduino_Amplified)  | `C++, C`  |
 
 
 
