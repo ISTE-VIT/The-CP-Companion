@@ -1,5 +1,7 @@
-<h1><p align="center"> The-Algo-Companion with ISTE-VIT</p>
+<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px> The-Algo-Companion with ISTE-VIT <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px></p>
 
+	
+	
 <h3><p align="center"> Your ultimate destination for Competitive Coding.</p> </h3>
 
 
@@ -14,9 +16,9 @@
 
 <hr>
 
-<h2>Literally, CP is a sport :basketball_man:, like any other sport.  
+<h2> Literally, CP is a sport :basketball_man:, like any other sport.  </h2>
 	
-<p align="center"><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 300px></h2></p>
+
 
 > Let’s consider cricket for a while. You walk into bat for the first time. Bowler swings and you miss. You practice by keeping this “swing” in your mind and next time you’ll do much better. By practicing and doing it a couple of times, you’ll hit one over the ropes.
 
