@@ -40,7 +40,7 @@
 
 <h3> For better understanding through graphical + code illustration go to the 
   
-[Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES) 
+[Solved Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES) 
 
 </h3>
 
