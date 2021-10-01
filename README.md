@@ -1,5 +1,7 @@
-<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135464314-850bc467-dba8-45dd-9de1-83263581d005.png" width = 150px> The-Algo-Companion with ISTE-VIT</p>
+<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px> The-Algo-Companion with ISTE-VIT <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px></p>
 
+	
+	
 <h3><p align="center"> Your ultimate destination for Competitive Coding.</p> </h3>
 
 
