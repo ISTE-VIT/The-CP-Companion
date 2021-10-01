@@ -3,8 +3,13 @@
 Welcome To :man_technologist: :woman_technologist:
 	</h1>
 
-[![image](https://user-images.githubusercontent.com/77975418/135464314-850bc467-dba8-45dd-9de1-83263581d005.png)](https://hacktoberfest.digitalocean.com/)
+	
+<p align="center"><img src = "https://user-images.githubusercontent.com/77975418/135464314-850bc467-dba8-45dd-9de1-83263581d005.png" width = 850px> </p>
+<!-- [![image](https://user-images.githubusercontent.com/77975418/135464314-850bc467-dba8-45dd-9de1-83263581d005.png)](https://hacktoberfest.digitalocean.com/) -->
 	<h1> <p align ="center"> HACKTOBERFEST 2021 </p> </h1>
+	
+	
+
 
 <h2> <p align ="center"> Open source is changing the world – one contribution at a time </p> </h2>
         
