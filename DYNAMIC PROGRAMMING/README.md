@@ -149,7 +149,7 @@ void fib ()
 
 <h3> For better understanding on DYNAMIC PROGRAMMING, refer the 
  
-[Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACKTOBER-21_THE-ALGO-COMPANION/tree/main/CP%20RAGE/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)</h3>
+[Solved Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)</h3>
 
 
 <hr>
