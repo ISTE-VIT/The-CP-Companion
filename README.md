@@ -1,4 +1,4 @@
-<h1><p align="center"> The-Algo-Companion with ISTE-VIT</p>
+<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135464314-850bc467-dba8-45dd-9de1-83263581d005.png" width = 150px> The-Algo-Companion with ISTE-VIT</p>
 
 <h3><p align="center"> Your ultimate destination for Competitive Coding.</p> </h3>
 
