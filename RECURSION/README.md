@@ -85,7 +85,7 @@ So when you call return n * factorial(n-1) the computer stops here to go evaluat
 
 <b><h3>For a better illustration on recursion through graphical representation and codes refer to the
   
-[Solved Examples Folder](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/tree/main/CP%20RAGE/RECURSION/SOLVED%20EXAMPLES)</h3></b>
+[Solved Examples Folder](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)</h3></b>
 	
 	
 <hr>
@@ -98,3 +98,5 @@ So when you call return n * factorial(n-1) the computer stops here to go evaluat
 <hr>
 
 <h1><p align="center"> HAPPY CODING :man_technologist:	</p></h1>
+
+	

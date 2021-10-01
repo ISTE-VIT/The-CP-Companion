@@ -89,7 +89,7 @@ This is a simple Greedy-algorithm problem. In each iteration, you have to greedi
 
 <h2> For better Illustration on Greedy Approach refer the 
  
-[Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/GREEDY%20TECHNIQUE/SOLVED%20EXAMPLES) </h2>
+[Solved Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/GREEDY%20TECHNIQUE/SOLVED%20EXAMPLES) </h2>
 
 <hr>
 
