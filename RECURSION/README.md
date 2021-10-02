@@ -5,7 +5,8 @@
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/77975418/135303750-3d3a0231-1ce2-468c-9eb6-83690582b3df.png)
+![REUCR](https://user-images.githubusercontent.com/77975418/135710657-c1692496-b9e9-4fc0-a370-32f7ee0d3684.jpg)
+
 
 <h2>:star:Recursion is really easy to understand. It is essentially a function calling itself.<h2>
 
