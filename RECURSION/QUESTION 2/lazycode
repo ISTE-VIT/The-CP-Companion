@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int lazy(int n,int z){
+    if(n>=-z){
+        if(n>0)
+          cout<<n<<" ";
+        else
+          cout<<-n<<" ";
+        return lazy(n-1,z);
+    }
+    return 0;
+}
+int main()
+{
+    lazy(4,4);
+    return 0;
+}
