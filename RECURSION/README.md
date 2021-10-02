@@ -82,6 +82,27 @@ Every time you call a function, the computer goes off to evaluate that function 
 So when you call return n * factorial(n-1) the computer stops here to go evaluate factorial(n-1) and so on and so on until something different comes back (1) which then allows all of the stopped processes to return a value.
 	
 <hr>
+	
+# :hourglass:REAL TIME ILLUSTRATION ON RECURSION
+
+> The below real life example consists of 3 kids who seeks a permission for  meet up.
+
+- In the first stage A asks B.
+- In the second stage B asks C.
+- In the third stage C asks his parents.
+
+
+<br>
+
+- On approval from parents, C provides a appropriate response to B.
+- In turn B provides a response to A.
+
+<hr>
+
+![IMG-20210929-WA0050](https://user-images.githubusercontent.com/77975418/135330471-5d7d7187-89c5-41b8-913d-6f66378f9da9.jpg)
+
+<hr>
+
 
 <b><h3>For a better illustration on recursion through graphical representation and codes refer to the
   
@@ -91,6 +112,9 @@ So when you call return n * factorial(n-1) the computer stops here to go evaluat
 <hr>
 
         
+	
+
+	
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
 
