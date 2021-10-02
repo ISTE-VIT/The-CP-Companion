@@ -4,7 +4,8 @@
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/77975418/135317059-5432489a-6b54-44bb-b028-d0c72fa365d9.png)
+![GREEDY](https://user-images.githubusercontent.com/77975418/135710646-d3c85c27-44f2-4df2-a62c-1f0a25ded40e.jpg)
+
 
 <hr>
 
