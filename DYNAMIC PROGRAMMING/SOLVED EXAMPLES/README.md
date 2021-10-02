@@ -75,3 +75,8 @@ Let's say this is the sequence of houses. If we look at the naive approach, then
 
 ![IMG-20210930-WA0053](https://user-images.githubusercontent.com/77975418/135498892-6bb3ad9d-ca9a-44df-bb77-c865b1704772.jpg)
 
+
+<hr>
+
+<h1><p align="center"> HAPPY CODING :man_technologist:	</p></h1>
+
