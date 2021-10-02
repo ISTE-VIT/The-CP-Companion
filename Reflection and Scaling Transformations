@@ -1,0 +1,36 @@
+import numpy as np
+from skimage.io import imread
+from skimage.color import rgb2lab,lab2rgb
+import matplotlib.pylab as plt  #lab is luminorsity and defines rbg 
+im = imread('Image.jpg') #select the image file
+im1 = rgb2lab(im) #Lab color space - still addresses rgb+ luminosity = 0,1,2 #L-Luminosity; a,b = color channels
+#print(im1)
+im1.shape #How many pixels? 1280*593*3
+im1[...,1] = im1[...,2] = 0 #setting the a and b (color)
+#Manipulation of Color Channels to render grayscale
+im1= lab2rgb(im1)
+
+plt.figure(figsize = (10,8))
+plt.subplot(121)
+plt.imshow(im)
+plt.axis =('off')
+plt.title('Original Image', size=20)
+
+
+plt.figure(figsize = (10,8))
+plt.subplot(121)
+plt.imshow(im1)
+plt.axis =('off')
+plt.title('Grayscale Image', size=20)
+
+im1 = rgb2lab(im)
+im1 [...,0] = np.max(im1[...,0]) - im1[...,0] #Image Inversion
+im1 [...,0] = im1[..., 0]-50  #reduces the liminosity content of the image -50 to increase do +50
+im1 = lab2rgb(im1)
+
+plt.figure(figsize = (10,8) )
+plt.subplot(121)
+plt.imshow(im1)
+plt.axis = ('off' )
+plt.title('Inverted Image',size = 20)
+
