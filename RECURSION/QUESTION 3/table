@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int tab(int x,int p){
+    if(x>=1 && p<=10){
+        cout<<x<<" x "<<p<<" = "<<x*p<<"\n";
+        return tab(x,p+1);
+    }
+    return 0;
+}
+int main()
+{
+    tab(5,1);
+    return 0;
+}
