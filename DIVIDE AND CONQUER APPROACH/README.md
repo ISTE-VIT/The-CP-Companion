@@ -1,5 +1,8 @@
 # THE DIVIDE AND CONQUER APPROACH<img src = "https://user-images.githubusercontent.com/77975418/135521510-c561417d-661b-459d-a537-8bbd06122426.png" height = 70px>
 
+![DAC](https://user-images.githubusercontent.com/77975418/135710624-21385875-fe16-4490-b49e-e081c4d8270d.jpg)
+
+
 > Sometimes when you’re trying to solve a problem, you would feel as if “Hmm, the problem is pretty big to solve on one go” and you would break the problem into halves or quarters and try to solve it. 
 
 > If the problem is still not manageable to solve, you will further reduce the problem into a manageable size and try to solve it. That exactly is what divide and conquer is. 
