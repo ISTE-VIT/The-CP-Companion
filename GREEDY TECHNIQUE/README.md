@@ -4,7 +4,8 @@
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/77975418/135317059-5432489a-6b54-44bb-b028-d0c72fa365d9.png)
+![GREEDY](https://user-images.githubusercontent.com/77975418/135710646-d3c85c27-44f2-4df2-a62c-1f0a25ded40e.jpg)
+
 
 <hr>
 
@@ -16,74 +17,24 @@
 
 # :pencil:How to create a Greedy Algorithm?
 
-> Being a very busy person, you have exactly T time to do some interesting things and you want to do maximum such things.
-You are given an array A of integers, where each element indicates the time a thing takes for completion. You want to calculate the maximum number of things that you can do in the limited time that you have.
+**Sonuds a bit muddled right ? Don't worry we got you !**
 
+- Let's say that you enter a sports shop where there are four items that you like. The prices of these are also given to you. Assume today is your birthday and your father has given you $250 to spend. Now you like all the items there. So we need to device an algorithm that tells him the maximum number of items that he can buy with the given amount.
 
-This is a simple Greedy-algorithm problem. In each iteration, you have to greedily select the things which will take the minimum amount of time to complete while maintaining two variables currentTime and numberOfThings. To complete the calculation, you must:
+- This situation may seem very ordinary, but this indeed explains the core concept of greedy algorithms. What will you do in this situation ? You will start selecting items in the incresing order of their prices till the overall price overshoots the total amount that is given to us. That is exactly how we approach this problem.
 
-:arrow_right: Sort the array A in a non-decreasing order.
+**But wait, how will it come under a greedy solution ?**
 
-:arrow_right: Select each to-do item one-by-one.
+- To explain this, we need to understand why are we taking the items in the increasing order of their prices. We are doing this because, we think that chooseing the item with lowest price first, will enable us to take more number of items at the end.
 
-:arrow_right: Add the time that it will take to complete that to-do item into currentTime.
+> The idea that we take the item that has the least price at that time is nothing but choosing the choice that is optimal locally, and by doing this, we have a solution for the overal problem if we contiue doing this optimal choice until the total amount overshoots the amount that is given to us.
 
-:arrow_right: Add one to numberOfThings.
+**Here is a vibrant illustration on this context,**
 
-:arrow_right: Repeat this as long as the currentTime is less than or equal to T.
+![image](https://user-images.githubusercontent.com/77975418/135710300-eccaa49d-e2da-4896-b8f9-0d5c57af8794.png)
 
-:arrow_right: Let A = {5, 3, 4, 2, 1} and T = 6
+![image](https://user-images.githubusercontent.com/77975418/135710304-19ec2d1c-3912-40be-8740-7df7aeb317f5.png)
 
-:arrow_right: After sorting, A = {1, 2, 3, 4, 5}
-
-:arrow_right: After the 1st iteration:
-
- :black_circle: currentTime = 1
-
-:black_circle: numberOfThings = 1
-
-:arrow_right:After the 2nd iteration:
-
- :black_circle: currentTime is 1 + 2 = 3
-
- :black_circle: numberOfThings = 2
-
-:arrow_right: After the 3rd iteration:
-
- :black_circle: currentTime is 3 + 3 = 6
-
- :black_circle: numberOfThings = 3
-
-:arrow_right: After the 4th iteration, currentTime is 6 + 4 = 10, which is greater than T. Therefore, the answer is 3.
-
-<hr>
-
-# :computer:Implementation
-
-    #include <iostream>
-    #include <algorithm>
-
-    using namespace std;
-    const int MAX = 105;
-    int A[MAX];
-
-    int main()
-    {
-        int T, N, numberOfThings = 0, currentTime = 0;
-        cin >> N >> T;
-        for(int i = 0;i < N;++i)
-            cin >> A[i];
-        sort(A, A + N);
-        for(int i = 0;i < N;++i)
-        {
-            currentTime += A[i];
-            if(currentTime > T)
-                break;
-            numberOfThings++;
-        }
-        cout << numberOfThings << endl;
-        return 0;
-    }
 
 <hr>
 

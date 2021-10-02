@@ -1,22 +1,3 @@
-# :hourglass:REAL TIME ILLUSTRATION ON RECURSION
-
-> The below real life example consists of 3 kids who seeks a permission for  meet up.
-
-- In the first stage A asks B.
-- In the second stage B asks C.
-- In the third stage C asks his parents.
-
-
-<br>
-
-- On approval from parents, C provides a appropriate response to B.
-- In turn B provides a response to A.
-
-<hr>
-
-![IMG-20210929-WA0050](https://user-images.githubusercontent.com/77975418/135330471-5d7d7187-89c5-41b8-913d-6f66378f9da9.jpg)
-
-<hr>
 
 
 # :keyboard:CODE + PICTORIAL ILLUSTRATIONS:
