@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
  
-void tribonacci_series(int n)
+int tribonacci_series(int n)
 {
     int dp[n];
     dp[0] = 0;
