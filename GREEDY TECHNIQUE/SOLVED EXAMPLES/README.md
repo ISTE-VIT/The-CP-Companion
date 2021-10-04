@@ -101,7 +101,8 @@ I hope this gave you a quick insight into how Huffman compression works. Next, l
 
 <hr>
 
-![image](https://user-images.githubusercontent.com/77975418/135710195-2ebd25ad-7efd-487f-82fa-778f2e0c5aec.png)
+![IMG-20211003-WA0049](https://user-images.githubusercontent.com/77975418/135810022-23b1ad95-d826-4770-b29e-d9e3c3197282.jpg)
+
 
 <hr>
 

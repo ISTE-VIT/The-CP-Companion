@@ -63,6 +63,43 @@
 
 <h2> 🎯Let's try to understand this by taking an example of Fibonacci numbers. </h2>
 
+We have already discussed the recursive code for the fibbonacci sequence. But did we talk about its efficiency ?? Let's do it now.
+
+> For this, we might require the **recursion tree** for the recursive code. That is simple as we have discussed already, Just put the input given as the root node and then draw the tree for each function calls.
+
+
+After drawing the tree  we might have a simple observation, that is,  
+**"Why are the function calls for finding the same value again and again ?"** 
+
+Well, let's take an ilustration !
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/77975418/135809244-df122823-2889-4832-87c4-40edc00753e4.png)
+
+
+<hr>
+
+If you look closely, and analyse the colour patterns, it is clear that the same values are called again and again. For a small number this might seem fine, but for large cases its just a terrible piece of mess. But wait !!
+
+> **Why don't we consider storing the values somewhere, so that we can access it whenever it is needed rather than calling the recursive function again and again ?**
+
+Lets try to understand it !! Of course using an illustration !
+
+<hr>
+
+
+![image](https://user-images.githubusercontent.com/77975418/135809320-302d767c-ecf3-4a2f-bd92-589a52c9a90f.png)
+
+
+<hr>
+
+This cocept of breaking the main problem into subproblem, storing the results and then find the further results by using the answers we got from the subproblems can be said as an **Dynammic Programming approach !**
+
+<hr>
+
+
+
 ```
 Fibonacci (n) = 1; if n = 0
 
