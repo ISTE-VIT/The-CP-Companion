@@ -1,6 +1,6 @@
 **N children are playing in a park.**
 
-**You are a social activist and you have planned to make the students pant some trees.
+**You are a social activist and you have planned to make the students plant some trees.
 There are m packets of seeds represented by the array seeds[], where seeds[i] represents the number of seeds in the ith packet.** 
 
 **Knowing the fact that there are N students, he need to take some packets from the available packets, 
