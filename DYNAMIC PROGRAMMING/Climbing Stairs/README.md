@@ -11,12 +11,12 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 > **OUTPUT :** 2
 
 > **EXPLAINATION** :
->
+
 > There are two ways to climb at the top.
 
-1. 1 setp + 1 setp
-2. 2 steps
-   >
+>  1. 1 setp + 1 setp
+>  2. 2 steps
+
 
 **Example 2:**
 
@@ -26,9 +26,8 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 
 > **EXPLAINATION** :
 >
-> There are two ways to climb at the top.
+> There are three ways to climb at the top.
+>1. 1 step + 1 step + 1 step
+>2. 2 steps + 1 step
+>3. 1 step + 2 steps
 
-1. 1 step + 1 step + 1 step
-2. 2 steps + 1 step
-3. 1 step + 2 steps
-   >
