@@ -75,6 +75,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 # :arrow_lower_right:Algorithms Participants can CONTRIBUTE to:
 
 <h2> 1. RECURSION </h2>
+
 > Recursion can be defined as the technique of replicating or doing again an activity in a self-similar way calling itself again and again, and the process continues till specific condition reaches. In the world of programming, when your program lets you call that specific function from inside that function, then this concept of calling the function from itself can be termed as recursion, and the function which makes this possible is called recursive function.
 
 <h2> 2. DIVIDE AND CONQUER </h2>
@@ -106,7 +107,26 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 <hr>
 
-        
+<h2> Competitive Programming websites </h2>
+
+[Codeforces](https://codeforces.com/)  
+[Codechef](https://www.codechef.com/)  
+[Atcoder](https://atcoder.jp/)  
+[Topcoder](https://www.topcoder.com/)  
+[Hackerearth](https://www.hackerearth.com/)  
+[Hackerank](https://www.hackerrank.com/)  
+
+Some other useful websites:  
+[To keep track of all coding competitions](https://clist.by)  
+[Theory and implementation of algorithms](https://cp-algorithms.com/)  
+[Common problems asked in competitions](https://cses.fi/problemset/)  
+
+<h2> Programming Competitions </h2>
+
+[Google Codejam](https://codingcompetitions.withgoogle.com/codejam)  
+[Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)  
+[Facebook Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
         
