@@ -45,5 +45,5 @@ int main()
  
     wordBreak(dict, word, "");
  
-    return 0;
+    return 0
 }
