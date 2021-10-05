@@ -9,4 +9,4 @@ provided we can take 1 or 2 steps at a time.
 <br>
 
 > INPUT : 7                 
-> OUTPUT :  48
+> OUTPUT :  56
