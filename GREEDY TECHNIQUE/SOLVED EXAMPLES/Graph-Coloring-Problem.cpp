@@ -108,4 +108,4 @@ int main()
 // The color assigned to vertex 2 is BLUE
 // The color assigned to vertex 3 is RED
 // The color assigned to vertex 4 is RED
-// The color assigned to vertex 5 is GREEN
+// The color assigned to vertex 5 is GREE
