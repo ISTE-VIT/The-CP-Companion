@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Main
+{
+    
+    static void printTable(int n, int k) {
+        if(k==10) {
+            System.out.println(n+" X " + 10+ " = " + (n*10));
+            return;
+        }
+        System.out.println(n+" X " + k + " = " + (n*k));
+        printTable(n, k+1);
+    }
+    
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		printTable(n, 1);
+	}
+}
