@@ -4,7 +4,7 @@
 
 <hr>
 
-![DP](https://user-images.githubusercontent.com/77975418/135710641-c1171316-4681-45df-8be4-5a9dc57219b0.jpg)
+![DP](https://user-images.githubusercontent.com/77975418/136185104-a0039576-51d1-4e3f-a750-27d8dd21cacc.jpg)
 
 
 <hr>
@@ -187,7 +187,7 @@ void fib ()
 
 <h3> For better understanding on DYNAMIC PROGRAMMING, refer the 
  
-[Solved Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)</h3>
+[Solved Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)</h3>
 
 
 <hr>

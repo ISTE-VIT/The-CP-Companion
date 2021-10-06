@@ -5,8 +5,8 @@
 - When we are asked to find the powers of a particular number the normal (or naïve) way to do it will be to multiply the same number ‘n-1’ times. 
 
 - As an Example, to find 3 to the power of 3, 3 will be multiplied with 3, twice. Although our computer is meticulously fast and can-do 10^8 operations per second. This way of finding the exponential becomes a problem, for numbers of higher magnitude. 
-- For instance, let’s say that your program needs to do 112^10 multiplication, hundred times to produce some result. So, your program needs to multiply 112 to itself 900 times. A program which takes lesser number of times to produce the same result would be considered as a better program, hence we must arrive with an algorithm that reduces the number of multiplications. 
-- How about we arrive at an algorithm that only takes 600 times and thereby reducing the number of operations by 30%.
+- For instance, let’s say that your program needs to do 112^10 multiplication, hundred times to produce some result. So, your program needs to multiply 112 to itself 900 times. A program which takes lesser number of times to produce the same result would be considered as a better program, hence we must arrive with an approach that reduces the number of multiplications. 
+- How about we arrive at an approach that only takes 600 times and thereby reducing the number of operations by 30%.
 
 
 <br>

@@ -106,7 +106,7 @@ git push origin my-new-branch
 
 - <h3> Below are the lists of the domains you can contribute to: </h3>
 
-- <h3> The links wil take you to the repository of the respective domain consisting of variety of projects and algorithmic approaches to contribute to. </h3>
+- <h3> The links wil take you to the repository of the respective domain consisting of variety of projects and approaches to contribute to. </h3>
 
 <hr>
 

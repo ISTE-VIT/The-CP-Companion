@@ -7,7 +7,7 @@
 
 <h2> :star:The code is provided in the 
  
-[Factorial File](https://github.com/ISTE-VIT/The-Algo-Companion/blob/main/RECURSION/SOLVED%20EXAMPLES/FACTORIAL)</h2>
+[Factorial File](https://github.com/ISTE-VIT/The-CP-Companion/blob/main/RECURSION/SOLVED%20EXAMPLES/FACTORIAL)</h2>
 
 - As seen, factorial of number 3 is calculated using recursion.
 - The fact function is recursively called until the base condition is met.
@@ -25,7 +25,7 @@
 
 <h2> :star:The code is provided in the 
  
-[Sum Of Numbers file](https://github.com/ISTE-VIT/The-Algo-Companion/blob/main/RECURSION/SOLVED%20EXAMPLES/SUM%20OF%20NUMBERS)</h2>
+[Sum Of Numbers file](https://github.com/ISTE-VIT/The-CP-Companion/blob/main/RECURSION/SOLVED%20EXAMPLES/SUM%20OF%20NUMBERS)</h2>
 
 - As illustrated, we are performing the addition of 3 numbers as shown.
 - We keep calling the Add function recursively untill the number of arguments to the Add function decrease to 1.

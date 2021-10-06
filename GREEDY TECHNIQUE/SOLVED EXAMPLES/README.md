@@ -2,7 +2,7 @@
 
 <h2> 1. ACTIVITY SELECTOR: </h2>
 
-- Let's say you are in a excursion, and there are many events that take place. You are given with the schedule ( start time and end time) of each events. But you see that some of the event overlap with each other. You like all the events equally, so you want to attend as many event as possible. How will you device an algorithm for this ?
+- Let's say you are in a excursion, and there are many events that take place. You are given with the schedule ( start time and end time) of each events. But you see that some of the event overlap with each other. You like all the events equally, so you want to attend as many event as possible. How will you device an approach for this ?
 
 - This is infact the problem statement of the **Activity selector probelm**. We are given with the start and end time of some overlapping events, and we are asked to find the maximum number of events that we can attend without overlapping. Here is a simple illustration to explain things more clearly.
 
@@ -35,7 +35,7 @@ We can't attend the Dance event because the start time is greater than the previ
 
 - The ASCII code contains all the alphabets, numbers and speacial characters that are in the keyboard. So each character is represented by a number between 0 and 127, which is a 8 bit data. But isn't 8 bits too much for using the same code for DNA sequences too?
 
-- Because, DNA sequences has only 4 characters in it, so it is not required to use the coding scheme that is used for 128 chracters (ASCII). So for coding these custom character sequences, we use an algorithm called **Huffman's coding algorithm**
+- Because, DNA sequences has only 4 characters in it, so it is not required to use the coding scheme that is used for 128 chracters (ASCII). So for coding these custom character sequences, we use an approach called **Huffman's coding approach**
 
 Lets take an example: Let **AGGACTAAAAACG** be the given sequence and we are asked to find an efficient coding scheme for this sequence. Lets analyse the frequencies of the characters,
 

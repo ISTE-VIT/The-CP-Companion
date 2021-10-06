@@ -12,7 +12,9 @@
 
 <hr>
 
-![IMG-20211002-WA0063](https://user-images.githubusercontent.com/77975418/135710557-dd35983c-08ff-4890-8e93-2dabd52eb0e8.jpg)
+
+![CP](https://user-images.githubusercontent.com/77975418/136185240-b1497c3d-4928-433d-9dc5-8d1898177fe4.jpg)
+
 
 
 <hr>
@@ -33,7 +35,7 @@
 
 - **Improves Logic**
 
-Programming logic improves by practice. You are smart from the very beginning. With competitive programming, you continuously train yourself with algorithmic problems that test the better out of your current logic skills. By practicing more and more you get better and this improves your programming logic.
+Programming logic improves by practice. You are smart from the very beginning. With competitive programming, you continuously train yourself with problems that test the better out of your current logic skills. By practicing more and more you get better and this improves your programming logic.
 
 
 - **Makes you more focused and faster**
@@ -72,7 +74,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 <hr>
 	
-# :arrow_lower_right:Algorithmic Approaches Participants can CONTRIBUTE to:
+# :arrow_lower_right:Approaches Participants can CONTRIBUTE to:
 
 <h2> 1. RECURSION </h2>
 
@@ -85,7 +87,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 <h2> 3. GREEDY APPROACH </h2>
 
-> Among all the algorithmic approaches, the simplest and straightforward approach is the Greedy method. In this approach, the decision is taken on the basis of current available information without worrying about the effect of the current decision in future.
+> Among all the approaches, the simplest and straightforward approach is the Greedy method. In this approach, the decision is taken on the basis of current available information without worrying about the effect of the current decision in future.
 
 
 <h2> 4. DYNAMIC PROGRAMMING  </h2>
@@ -100,10 +102,10 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 | APPROACH                                                                                         |                                 Repository Folder   Link                      |                                                              Solved Examples                                                        |
 | --------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: |  :----------------------------------------------------------------------------------------------------------------------------: |              
-| RECURSION                                                   | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)  |  
-| DIVIDE AND CONQUER                                                   | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)  |    
-| GREEDY APPROACH                                                     | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/GREEDY%20TECHNIQUE)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/GREEDY%20TECHNIQUE/SOLVED%20EXAMPLES)  |    
-| DYNAMIC PROGRAMMING                                     | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DYNAMIC%20PROGRAMMING)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)  |   
+| RECURSION                                                   | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/RECURSION)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)  |  
+| DIVIDE AND CONQUER                                                   | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)  |    
+| GREEDY APPROACH                                                     | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/GREEDY%20TECHNIQUE)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/GREEDY%20TECHNIQUE/SOLVED%20EXAMPLES)  |    
+| DYNAMIC PROGRAMMING                                     | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DYNAMIC%20PROGRAMMING)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)  |   
 
 <hr>
 
@@ -118,7 +120,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 Some other useful websites:  
 [To keep track of all coding competitions](https://clist.by)  
-[Theory and implementation of algorithms](https://cp-algorithms.com/)  
+[Theory and implementation of CP approaches](https://cp-algorithms.com/)  
 [Common problems asked in competitions](https://cses.fi/problemset/)  
 
 <h2> Programming Competitions </h2>
