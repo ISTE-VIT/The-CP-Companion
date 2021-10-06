@@ -1,4 +1,4 @@
-<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px> The-Algo-Companion with ISTE-VIT <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px></p>
+<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px> The-CP-Companion with ISTE-VIT <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px></p>
 
 	
 	
@@ -25,7 +25,7 @@
 
 > In a programming contest, you convert plain English sentences into a code of your favorite programming language. Walk right into it, you will learn unwritten rules of the game as you play harder and get better. 
 
-> For getting started, you don’t need to know any complex algorithms or data structures. You just need to know a programming language and start competing. As you practice, you fail, and you succeed and you will learn how to solve complex problems and how to write fast and efficient code.
+> For getting started, you just need to know a programming language and start competing. As you practice, you fail, and you succeed and you will learn how to solve complex problems and how to write fast and efficient code.
 
 <hr>
 
@@ -72,7 +72,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 <hr>
 	
-# :arrow_lower_right:Algorithms Participants can CONTRIBUTE to:
+# :arrow_lower_right:Algorithmic Approaches Participants can CONTRIBUTE to:
 
 <h2> 1. RECURSION </h2>
 
@@ -98,7 +98,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 
 
-| ALGORITHM                                                                                         |                                 Repository Folder   Link                      |                                                              Solved Examples                                                        |
+| APPROACH                                                                                         |                                 Repository Folder   Link                      |                                                              Solved Examples                                                        |
 | --------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: |  :----------------------------------------------------------------------------------------------------------------------------: |              
 | RECURSION                                                   | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)  |  
 | DIVIDE AND CONQUER                                                   | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)  |    
