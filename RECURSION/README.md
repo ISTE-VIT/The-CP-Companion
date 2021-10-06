@@ -41,21 +41,21 @@ Just imagine writing a function that calculates the factorial of a number n (n!)
 
 Lets see how it would expand for 4!. Remember that 1! = 1.
   
-:star2:(factorial 4)
-  
-:star2:(4 * (factorial 3))
-  
-:star2:(4 * (3 * (factorial 2)))
-  
-:star2:(4 * (3 * (2 * (factorial 1))))
-  
-:star2:(4 * (3 * (2 * 1)))
-  
-:star2:(4 * (3 * 2))
-  
-:star2:(4 * 6)
-  
-:star2:(24)
+	👉(factorial 4)
+
+		👉(4 * (factorial 3))
+
+			👉(4 * (3 * (factorial 2)))
+
+				👉(4 * (3 * (2 * (factorial 1))))
+
+					👉(4 * (3 * (2 * 1)))
+
+						👉(4 * (3 * 2))
+
+							👉(4 * 6)
+
+								👉(24)
 
 The factorial keeps multiplying the current number by the factorial of the number before it (4 * 3!) until it reaches its terminating condition (1! = 1) which then allows all the functions before it to evaluate the return statement (n * factorial(n-1)) and pass it back up the stack.
 	
