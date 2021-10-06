@@ -5,7 +5,8 @@
 
 <hr>
 
-![REUCR](https://user-images.githubusercontent.com/77975418/135710657-c1692496-b9e9-4fc0-a370-32f7ee0d3684.jpg)
+![RECUR](https://user-images.githubusercontent.com/77975418/136184306-44894c93-7141-4714-b749-4056a12775fc.jpg)
+
 
 
 <h2>:star:Recursion is really easy to understand. It is essentially a function calling itself.<h2>
@@ -107,7 +108,7 @@ So when you call return n * factorial(n-1) the computer stops here to go evaluat
 
 <b><h3>For a better illustration on recursion through graphical representation and codes refer to the
   
-[Solved Examples Folder](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)</h3></b>
+[Solved Examples Folder](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)</h3></b>
 	
 	
 <hr>
