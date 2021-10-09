@@ -8,6 +8,9 @@ Below are the detailed steps used in Dijkstra’s algorithm to find the shortest
 ….a) Pick a vertex u which is not there in sptSet and has a minimum distance value. 
 ….b) Include u to sptSet. 
 ….c) Update distance value of all adjacent vertices of u. To update the distance values, iterate through all adjacent vertices. For every adjacent vertex v, if the sum of distance value of u (from source) and weight of edge u-v, is less than the distance value of v, then update the distance value of v. 
+
+
+
 **EXPLAINATION:**
 <h3>Pseudo-code of dijkstra algorithm</h3>
 function dijkstra(G, S)
