@@ -65,8 +65,8 @@ Welcome To :man_technologist: :woman_technologist:
 - Fork this repo 
 - Clone on your local machine 
 ```terminal
-git clone https://github.com/<your username>/The-Algo-Companion.git
-cd The-Algo-Companion
+git clone https://github.com/<your username>/The-CP-Companion.git
+cd The-CP-Companion
 ```
 - Create a new branch 
 ```terminal
@@ -106,13 +106,13 @@ git push origin my-new-branch
 
 - <h3> Below are the lists of the domains you can contribute to: </h3>
 
-- <h3> The links wil take you to the repository of the respective domain consisting of variety of projects and algorithms to contribute to. </h3>
+- <h3> The links wil take you to the repository of the respective domain consisting of variety of projects and approaches to contribute to. </h3>
 
 <hr>
 
 | Serial No. | DOMAIN| REPOSITORY LINK  | LANGUAGE |
 |:--|:--|:--|:--|
-| 1. | COMPETITIVE CODING | [THE ALGO COMPANION](https://github.com/ISTE-VIT/The-Algo-Companion)  | `JavaScript, Java, Python, Kotlin, C, C++`  |
+| 1. | COMPETITIVE CODING | [THE CP COMPANION](https://github.com/ISTE-VIT/The-CP-Companion)  | `JavaScript, Java, Python, Kotlin, C, C++`  |
 | 2. | WEB DEVELOPMENT| [Web dev](https://github.com/ISTE-VIT/Projects-Archive/tree/main/WebDev)  | `JavaScript, React, Node JS, HTML, CSS, Angular`  |
 | 3. | APP DEVELOPMENT| [App Dev](https://github.com/ISTE-VIT/Projects-Archive/tree/main/AppDev)  | `Java, Kotlin, Dart`  |
 | 4. | MACHINE LEARNING| [ML](https://github.com/ISTE-VIT/Projects-Archive/tree/main/Machine%20Learning)  | `Python, R `  |

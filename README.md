@@ -1,4 +1,4 @@
-<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px> The-Algo-Companion with ISTE-VIT <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px></p>
+<h1><p align="center"> <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px> The-CP-Companion with ISTE-VIT <img src = "https://user-images.githubusercontent.com/77975418/135613429-2d9583d9-72e8-4073-8e20-41c37ca4592c.jpg" width = 60px></p>
 
 	
 	
@@ -12,7 +12,9 @@
 
 <hr>
 
-![IMG-20211002-WA0063](https://user-images.githubusercontent.com/77975418/135710557-dd35983c-08ff-4890-8e93-2dabd52eb0e8.jpg)
+
+![CP](https://user-images.githubusercontent.com/77975418/136185240-b1497c3d-4928-433d-9dc5-8d1898177fe4.jpg)
+
 
 
 <hr>
@@ -25,7 +27,7 @@
 
 > In a programming contest, you convert plain English sentences into a code of your favorite programming language. Walk right into it, you will learn unwritten rules of the game as you play harder and get better. 
 
-> For getting started, you don’t need to know any complex algorithms or data structures. You just need to know a programming language and start competing. As you practice, you fail, and you succeed and you will learn how to solve complex problems and how to write fast and efficient code.
+> For getting started, you just need to know a programming language and start competing. As you practice, you fail, and you succeed and you will learn how to solve complex problems and how to write fast and efficient code.
 
 <hr>
 
@@ -33,7 +35,7 @@
 
 - **Improves Logic**
 
-Programming logic improves by practice. You are smart from the very beginning. With competitive programming, you continuously train yourself with algorithmic problems that test the better out of your current logic skills. By practicing more and more you get better and this improves your programming logic.
+Programming logic improves by practice. You are smart from the very beginning. With competitive programming, you continuously train yourself with problems that test the better out of your current logic skills. By practicing more and more you get better and this improves your programming logic.
 
 
 - **Makes you more focused and faster**
@@ -72,9 +74,10 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 <hr>
 	
-# :arrow_lower_right:Algorithms Participants can CONTRIBUTE to:
+# :arrow_lower_right:Approaches Participants can CONTRIBUTE to:
 
 <h2> 1. RECURSION </h2>
+
 > Recursion can be defined as the technique of replicating or doing again an activity in a self-similar way calling itself again and again, and the process continues till specific condition reaches. In the world of programming, when your program lets you call that specific function from inside that function, then this concept of calling the function from itself can be termed as recursion, and the function which makes this possible is called recursive function.
 
 <h2> 2. DIVIDE AND CONQUER </h2>
@@ -84,7 +87,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 <h2> 3. GREEDY APPROACH </h2>
 
-> Among all the algorithmic approaches, the simplest and straightforward approach is the Greedy method. In this approach, the decision is taken on the basis of current available information without worrying about the effect of the current decision in future.
+> Among all the approaches, the simplest and straightforward approach is the Greedy method. In this approach, the decision is taken on the basis of current available information without worrying about the effect of the current decision in future.
 
 
 <h2> 4. DYNAMIC PROGRAMMING  </h2>
@@ -97,16 +100,35 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 
 
-| ALGORITHM                                                                                         |                                 Repository Folder   Link                      |                                                              Solved Examples                                                        |
+| APPROACH                                                                                         |                                 Repository Folder   Link                      |                                                              Solved Examples                                                        |
 | --------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: |  :----------------------------------------------------------------------------------------------------------------------------: |              
-| RECURSION                                                   | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)  |  
-| DIVIDE AND CONQUER                                                   | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)  |    
-| GREEDY APPROACH                                                     | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/GREEDY%20TECHNIQUE)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/GREEDY%20TECHNIQUE/SOLVED%20EXAMPLES)  |    
-| DYNAMIC PROGRAMMING                                     | [Repo](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DYNAMIC%20PROGRAMMING)        | [Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)  |   
+| RECURSION                                                   | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/RECURSION)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/RECURSION/SOLVED%20EXAMPLES)  |  
+| DIVIDE AND CONQUER                                                   | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)  |    
+| GREEDY APPROACH                                                     | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/GREEDY%20TECHNIQUE)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/GREEDY%20TECHNIQUE/SOLVED%20EXAMPLES)  |    
+| DYNAMIC PROGRAMMING                                     | [Repo](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DYNAMIC%20PROGRAMMING)        | [Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)  |   
 
 <hr>
 
-        
+<h2> Competitive Programming websites </h2>
+
+[Codeforces](https://codeforces.com/)  
+[Codechef](https://www.codechef.com/)  
+[Atcoder](https://atcoder.jp/)  
+[Topcoder](https://www.topcoder.com/)  
+[Hackerearth](https://www.hackerearth.com/)  
+[Hackerank](https://www.hackerrank.com/)  
+
+Some other useful websites:  
+[To keep track of all coding competitions](https://clist.by)  
+[Theory and implementation of CP approaches](https://cp-algorithms.com/)  
+[Common problems asked in competitions](https://cses.fi/problemset/)  
+
+<h2> Programming Competitions </h2>
+
+[Google Codejam](https://codingcompetitions.withgoogle.com/codejam)  
+[Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)  
+[Facebook Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
         

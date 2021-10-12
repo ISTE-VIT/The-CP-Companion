@@ -1,6 +1,8 @@
 # THE DIVIDE AND CONQUER APPROACH<img src = "https://user-images.githubusercontent.com/77975418/135521510-c561417d-661b-459d-a537-8bbd06122426.png" height = 70px>
 
-![DAC](https://user-images.githubusercontent.com/77975418/135710624-21385875-fe16-4490-b49e-e081c4d8270d.jpg)
+
+![DAC](https://user-images.githubusercontent.com/77975418/136185447-ce455b92-20aa-42e2-b5e8-fe514154363e.jpg)
+
 
 
 > Sometimes when you’re trying to solve a problem, you would feel as if **“Hmm, the problem is pretty big to solve on one go”** and you would break the problem into halves or quarters and try to solve it. 
@@ -57,7 +59,7 @@
 
 <h3> For better understanding through graphical + code illustration go to the 
   
-[Solved Examples](https://github.com/ISTE-VIT/The-Algo-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES) 
+[Solved Examples](https://github.com/ISTE-VIT/The-CP-Companion/tree/main/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES) 
 
 </h3>
 
