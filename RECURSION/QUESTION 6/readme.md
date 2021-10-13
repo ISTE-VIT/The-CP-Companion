@@ -1,0 +1,2 @@
+You are given a rope of length n and 3 intergers: i, j and k. Cut the rope into maximum peices such that every peice is either of length i, j or k.
+Output: Maximum number of peices that the rope can be cut into.
