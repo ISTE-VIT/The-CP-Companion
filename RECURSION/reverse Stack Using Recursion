@@ -1,0 +1,58 @@
+#include<bits/stdc++.h>
+#define endl "\n"
+using namespace std;
+
+void insert(stack<int> &s,int y){
+
+if(!s.empty()){
+int x=s.top();
+s.pop();
+insert(s,y);
+s.push(x);
+}
+else
+{
+   s.push(y);
+}
+
+
+
+}
+
+void reverse(stack<int> &s){
+if(s.empty())return;
+
+int top=s.top();
+
+s.pop();
+reverse(s);
+insert(s,top);
+
+
+}
+
+
+
+int main(){
+ios_base::sync_with_stdio(false);
+
+stack<int> s;
+
+
+s.push(1);  //6
+s.push(2);  //5
+s.push(3);  //4
+s.push(4);  //3
+s.push(5);  //2
+s.push(6);  //1
+
+
+reverse(s);
+while (!s.empty())
+{
+    
+ cout<<s.top()<<" ";
+ s.pop();
+}
+return 0;
+}
