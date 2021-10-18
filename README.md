@@ -128,6 +128,7 @@ Some other useful websites:
 [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)  
 [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)  
 [Facebook Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup)
+[ICPC International](https://icpc.global/)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
